@@ -1,0 +1,6 @@
+C:\Users\Juan David\source\repos\Streams\EscribirArchivo\bin\Debug\EscribirArchivo.exe.config
+C:\Users\Juan David\source\repos\Streams\EscribirArchivo\bin\Debug\EscribirArchivo.exe
+C:\Users\Juan David\source\repos\Streams\EscribirArchivo\bin\Debug\EscribirArchivo.pdb
+C:\Users\Juan David\source\repos\Streams\EscribirArchivo\obj\Debug\EscribirArchivo.csproj.CoreCompileInputs.cache
+C:\Users\Juan David\source\repos\Streams\EscribirArchivo\obj\Debug\EscribirArchivo.exe
+C:\Users\Juan David\source\repos\Streams\EscribirArchivo\obj\Debug\EscribirArchivo.pdb

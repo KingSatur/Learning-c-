@@ -1,0 +1,7 @@
+C:\Users\Juan David\source\repos\Streams\Flujo\bin\Release\Flujo.exe.config
+C:\Users\Juan David\source\repos\Streams\Flujo\bin\Release\Flujo.exe
+C:\Users\Juan David\source\repos\Streams\Flujo\bin\Release\Flujo.pdb
+C:\Users\Juan David\source\repos\Streams\Flujo\obj\Release\Flujo.csproj.CoreCompileInputs.cache
+C:\Users\Juan David\source\repos\Streams\Flujo\obj\Release\Flujo.exe
+C:\Users\Juan David\source\repos\Streams\Flujo\obj\Release\Flujo.pdb
+C:\Users\Juan David\source\repos\Streams\Flujo\bin\Release\archivo.txt

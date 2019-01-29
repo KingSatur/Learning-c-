@@ -1,0 +1,7 @@
+C:\Users\Juan David\source\repos\Streams\Memoria\bin\Debug\archivo.txt
+C:\Users\Juan David\source\repos\Streams\Memoria\bin\Debug\Memoria.exe.config
+C:\Users\Juan David\source\repos\Streams\Memoria\bin\Debug\Memoria.exe
+C:\Users\Juan David\source\repos\Streams\Memoria\bin\Debug\Memoria.pdb
+C:\Users\Juan David\source\repos\Streams\Memoria\obj\Debug\Memoria.csproj.CoreCompileInputs.cache
+C:\Users\Juan David\source\repos\Streams\Memoria\obj\Debug\Memoria.exe
+C:\Users\Juan David\source\repos\Streams\Memoria\obj\Debug\Memoria.pdb
